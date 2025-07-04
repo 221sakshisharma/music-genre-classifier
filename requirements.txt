@@ -1,5 +1,5 @@
 Flask
-pytubefix
+yt_dlb
 pydub
 tensorflow
 joblib
