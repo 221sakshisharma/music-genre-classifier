@@ -1,0 +1,9 @@
+Flask
+pytubefix
+pydub
+tensorflow
+joblib
+librosa
+numpy
+pandas
+gunicorn
