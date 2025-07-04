@@ -1,5 +1,5 @@
 Flask
-yt_dlb
+yt_dlp
 pydub
 tensorflow
 joblib
